@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: [EFFECTIVE_DATE]**
+**Last updated: October 23, 2026**
 
-This Privacy Policy explains how **[OPERATOR]** ("spottr," "we," "us," or "our") collects, uses, shares, and protects information when you use the **spottr** mobile application (the "App"). spottr helps people find workout partners at gyms and other fitness venues they share.
+This Privacy Policy explains how **Benjamin Robert Karasik** ("spottr," "we," "us," or "our") collects, uses, shares, and protects information when you use the **spottr** mobile application (the "App"). spottr helps people find workout partners at gyms and other fitness venues they share.
 
 **spottr is for adults aged 18 and over only.** We do not knowingly collect information from anyone under 18.
 
@@ -20,7 +20,7 @@ By creating an account or using the App, you agree to the practices described he
 - **Prompt answers:** free-text answers to profile prompts you choose to fill in.
 - **Venues:** the gyms and fitness venues you join, and any new venue you submit for us to add.
 - **Messages:** the content of messages you send to other members through the App.
-- **Reports and support requests:** information you provide when you report another user or contact us.
+- **Reports and support requests:** information you provide when you report another member or contact us through the App, along with your app version and device type to help us troubleshoot.
 
 ### b. Information collected automatically
 
@@ -86,6 +86,8 @@ We share information only as described here. **We do not sell your personal info
 - We keep your information while your account is active.
 - You can **delete your account at any time from within the App**. Deleting your account removes your login identity and your app data — your profile, schedule, preferences, bio, gym memberships, friend requests, friendships, passes, and the conversations and messages you are part of. Venues you created are kept (others may rely on them) but are no longer linked to you.
 - Residual copies may persist briefly in encrypted backups and in our providers' logs before being overwritten in the ordinary course.
+- **Reports are kept.** Reports you file, and reports other members file about you, may be kept after your account is deleted where needed to keep the community safe, investigate abuse, or comply with law.
+- You can also request deletion without the App — see [Delete your account](delete-account).
 
 ---
 
@@ -135,7 +137,7 @@ We may update this Privacy Policy from time to time. When we make material chang
 
 Questions, concerns, or requests about this policy or your data:
 
-**[OPERATOR]**
+**Benjamin Robert Karasik**, operator of spottr
 Email: **support@spottr-io.com**
 
 ---
