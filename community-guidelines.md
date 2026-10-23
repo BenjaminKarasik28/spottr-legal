@@ -1,6 +1,6 @@
 # Community Guidelines
 
-**Last updated: [EFFECTIVE_DATE]**
+**Last updated: October 23, 2026**
 
 spottr is for finding workout partners — people to train with, push you, and make the gym better. To keep it safe and welcoming for everyone, every member agrees to these guidelines. They work alongside our [Terms of Service](terms-of-service).
 

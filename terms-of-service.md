@@ -1,8 +1,8 @@
 # Terms of Service
 
-**Last updated: [EFFECTIVE_DATE]**
+**Last updated: October 23, 2026**
 
-These Terms of Service ("Terms") are a binding agreement between you and **[OPERATOR]** ("spottr," "we," "us," or "our") governing your use of the **spottr** mobile application and related services (the "App"). Please read them carefully. **By creating an account or using the App, you agree to these Terms and to our [Privacy Policy](privacy-policy).** If you do not agree, do not use the App.
+These Terms of Service ("Terms") are a binding agreement between you and **Benjamin Robert Karasik** ("spottr," "we," "us," or "our") governing your use of the **spottr** mobile application and related services (the "App"). Please read them carefully. **By creating an account or using the App, you agree to these Terms and to our [Privacy Policy](privacy-policy).** If you do not agree, do not use the App.
 
 ---
 
@@ -74,7 +74,7 @@ We review reports of objectionable content and abusive users and aim to **act on
 
 ## 7. Intellectual property
 
-The App — including its software, design, logos, and branding — is owned by [OPERATOR] and its licensors and is protected by intellectual-property laws. We grant you a limited, personal, non-transferable, non-exclusive, revocable license to use the App for its intended purpose. You may not copy, modify, distribute, sell, or create derivative works from the App except as expressly permitted.
+The App — including its software, design, logos, and branding — is owned by Benjamin Robert Karasik and spottr's licensors and is protected by intellectual-property laws. We grant you a limited, personal, non-transferable, non-exclusive, revocable license to use the App for its intended purpose. You may not copy, modify, distribute, sell, or create derivative works from the App except as expressly permitted.
 
 ---
 
@@ -98,7 +98,7 @@ You may stop using the App and delete your account at any time from within the A
 
 ## 11. Limitation of liability
 
-**TO THE MAXIMUM EXTENT PERMITTED BY LAW, [OPERATOR] AND ITS OWNERS, EMPLOYEES, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING FROM OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE APP, OR YOUR INTERACTIONS OR MEETINGS WITH ANY USER — WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, BENJAMIN ROBERT KARASIK AND ANY EMPLOYEES OR AGENTS OF SPOTTR WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING FROM OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE APP, OR YOUR INTERACTIONS OR MEETINGS WITH ANY USER — WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
 
 **OUR TOTAL LIABILITY FOR ANY CLAIM RELATING TO THE APP WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US, IF ANY, IN THE 12 MONTHS BEFORE THE CLAIM, OR (B) USD $100.**
 
@@ -108,7 +108,7 @@ Some jurisdictions do not allow certain limitations, so some of the above may no
 
 ## 12. Indemnification
 
-You agree to indemnify and hold harmless [OPERATOR] and its owners, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising out of or related to your user content, your use of the App, your interactions or meetings with other users, or your violation of these Terms or any law.
+You agree to indemnify and hold harmless Benjamin Robert Karasik and any employees or agents of spottr from any claims, damages, losses, liabilities, and expenses (including reasonable legal fees) arising out of or related to your user content, your use of the App, your interactions or meetings with other users, or your violation of these Terms or any law.
 
 ---
 
@@ -126,13 +126,13 @@ We may update these Terms from time to time. When we make material changes, we'l
 
 ## 15. Apple App Store and Google Play
 
-If you downloaded the App from the Apple App Store or Google Play, you also agree to that store's terms. You acknowledge that these Terms are between you and [OPERATOR] only, **not** with Apple or Google, and that Apple and Google are not responsible for the App or its support. Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
+If you downloaded the App from the Apple App Store or Google Play, you also agree to that store's terms. You acknowledge that these Terms are between you and Benjamin Robert Karasik only, **not** with Apple or Google, and that Apple and Google are not responsible for the App or its support. Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
 
 ---
 
 ## 16. Contact
 
-**[OPERATOR]**
+**Benjamin Robert Karasik**, operator of spottr
 Email: **support@spottr-io.com**
 
 ---

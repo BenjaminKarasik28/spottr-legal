@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: [EFFECTIVE_DATE]**
+**Last updated: October 23, 2026**
 
-This Privacy Policy explains how **[OPERATOR]** ("spottr," "we," "us," or "our") collects, uses, shares, and protects information when you use the **spottr** mobile application (the "App"). spottr helps people find workout partners at gyms and other fitness venues they share.
+This Privacy Policy explains how **Benjamin Robert Karasik** ("spottr," "we," "us," or "our") collects, uses, shares, and protects information when you use the **spottr** mobile application (the "App"). spottr helps people find workout partners at gyms and other fitness venues they share.
 
 **spottr is for adults aged 18 and over only.** We do not knowingly collect information from anyone under 18.
 
@@ -137,7 +137,7 @@ We may update this Privacy Policy from time to time. When we make material chang
 
 Questions, concerns, or requests about this policy or your data:
 
-**[OPERATOR]**
+**Benjamin Robert Karasik**, operator of spottr
 Email: **support@spottr-io.com**
 
 ---
