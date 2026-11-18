@@ -1,4 +1,5 @@
 title: spottr
+url: https://spottr-io.com
 description: spottr matches you with workout partners at the gyms you already go to — lined up by schedule, sport, and skill level.
 permalink: /:basename
 plugins:
