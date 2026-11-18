@@ -1,22 +1,24 @@
+/* Colours mirror the app's constants/palette.js (amber and cream, palette A). */
 :root {
-  --bg: #ffffff;
-  --surface: #f8fafc;
-  --text: #0f172a;
-  --muted: #64748b;
-  --line: #e2e8f0;
-  --primary: #0ea5e9;
-  --primary-ink: #0369a1;
-  --charcoal: #0c4a6e;
+  --bg: #fff8f0;        /* surface */
+  --surface: #ffffff;   /* card */
+  --text: #1c1410;      /* text */
+  --muted: #78716c;     /* textSecondary */
+  --line: #eadfd3;      /* border */
+  --primary: #ea580c;   /* primary */
+  --primary-ink: #9a3412; /* primaryInk: links, readable on cream */
+  --charcoal: #3b2416;  /* ink: espresso */
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0c1a26;
-    --surface: #162535;
-    --text: #e2e8f0;
-    --muted: #94a3b8;
-    --line: #22364a;
-    --primary: #38bdf8;
-    --primary-ink: #7dd3fc;
+    --bg: #17110d;
+    --surface: #221a14;
+    --text: #f5ede4;
+    --muted: #a8a29e;
+    --line: #3a2e25;
+    --primary: #fb923c;
+    --primary-ink: #fdba74;
+    --charcoal: #c2410c; /* burnt orange: espresso would vanish on the dark surface */
   }
 }
 
